@@ -128,6 +128,7 @@ nav i {
     min-height: 100vh;
     background: #4d231c;
     padding: 5vh 5vw;
+    z-index:-1;
 }
 
 .lft-two, .rght-two {
@@ -300,3 +301,4 @@ nav i {
         margin-top: 15vh;
     }
 }
+
